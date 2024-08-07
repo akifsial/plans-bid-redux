@@ -1,1 +1,2 @@
-# plans-bid-redux
+# plans-bid
+Plans-bid React-app
